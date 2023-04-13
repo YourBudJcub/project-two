@@ -1,0 +1,95 @@
+.mainsectionbackground {
+    background: linear-gradient(360deg,#dbd1d0,#bca9a4, #7e675b, #3a2e23,#423735, #33364c, rgba(0, 0, 0, 0.8)) !important;
+}
+
+.sectiontitle {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 5px;
+    font-size: 5em;
+    color: rgb(202, 244, 244) !important;
+    padding-top: 1cm;
+    filter: drop-shadow(16px 16px 10px black);
+}
+
+.mastheadbg {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 35rem;
+    padding: 15rem 0;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../assets/img/jacobemanuelbeach.JPG");
+    background-position: center;
+     background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+.sectiontitleonblack {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 5px;
+    font-size: 5em;
+    color: rgb(202, 244, 244) !important;
+    padding-top: 1cm;
+    filter: drop-shadow(11px 11px 10px rgb(63, 63, 63));
+}
+
+.minisubsectiontitle {
+    font-family: Helvetica, sans-serif;
+    color: rgb(255, 236, 236);
+    filter: drop-shadow(10px 10px 8px rgb(35, 35, 35)) brightness(95%);
+    font-weight: bold;
+    font-size: 2.5em;
+}
+
+.navigationfont {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+    padding: 10px !important;
+}
+
+.musicwinner {
+    color: rgb(255, 236, 236);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 450;
+}
+
+.learnmorebtn {
+    background-color: rgb(171, 237, 237);
+    color:rgb(63, 63, 63);
+}
+
+.learnmorebtn:hover {
+    background-color: rgb(123, 171, 171);
+    color:rgb(220, 220, 220)
+}
+
+.quotes {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.musicbutton {
+    color: #e6e6e6;
+    background-color: #e06059;
+    border-color: #e06059;
+  }
+  .musicbutton:hover {
+    color: #c9c8c8;
+    background-color: #a24540;
+    border-color: #a24540;
+  }
+.masthead h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 3px;
+    word-spacing: 3px;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.photosinteractive img {
+    transition: all .2s ease-in-out;
+}
+
+.photosinteractive img:hover {
+    transform: scale(1.1);
+}
+
+.descriptivetext {
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
